@@ -1,14 +1,12 @@
 # Loan Origination System Backend
 
-![CI](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/daddyb17/loan-origination-system/actions/workflows/ci.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot)
 ![Architecture](https://img.shields.io/badge/Architecture-Clean%20Layered-0A66C2)
 ![Eventing](https://img.shields.io/badge/Pattern-Transactional%20Outbox-FF6B35)
 
 Production-style Spring Boot backend that models a loan origination workflow with underwriting checks, decisioning, and reliable event delivery via the outbox pattern.
-
-Update `daddyb17/loan-origination-system.git` in the CI badge URL after pushing to GitHub.
 
 ## Why This Project Stands Out
 
